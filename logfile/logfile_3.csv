@@ -1,0 +1,29 @@
+0;START;{}
+0;MAP;{name: Tutorial}
+0;Human;{id: Victim1 , breath: 30 , pulse: 140 , throat: 0 , pos_x: 1630 , pos_y: 620, triage: 1}
+0;Human;{id: Victim2 , breath: 0 , pulse: 82 , throat: 0 , pos_x: 1382 , pos_y: -353, triage: 2}
+0;Human;{id: Victim3 , breath: 0 , pulse: 0 , throat: 0 , pos_x: 895 , pos_y: 118, triage: 3}
+0;Human;{id: Victim4 , breath: 15 , pulse: 103 , throat: 0 , pos_x: 933 , pos_y: 873, triage: dead}
+0;Human;{id: Victim5 , breath: 22 , pulse: 161 , throat: 0 , pos_x: 1346 , pos_y: 136, triage: 1}
+0;Human;{id: Victim6 , breath: 30 , pulse: 140 , throat: 0 , pos_x: 2380 , pos_y: 140, triage: 2}
+100;position;{x: 1630, y: 620}
+200;position;{x: 1400, y: 500}
+300;position;{x: 1200, y: 200}
+400;position;{x: 1000, y: 300}
+500;position;{x: 1382, y: -353}
+600;position;{x: 1200, y: 0}
+700;position;{x: 900, y: 50}
+800;position;{x: 895, y: 118}
+900;position;{x: 900, y: 500}
+1000;position;{x: 933, y: 873}
+1100;position;{x: 1200, y: 700}
+1200;position;{x: 1346, y: 136}
+1300;position;{x: 1500, y: 200}
+1500;position;{x: 2380, y: 140}
+12694;SETDATA;{ human_id : Victim6 , triage : 3 }
+19047;SETDATA;{ human_id : Victim1 , triage : 3 }
+25949;SETDATA;{ human_id : Victim4 , triage : 2 }
+29455;SETDATA;{ human_id : Victim5 , triage : 3 }
+31964;SETDATA;{ human_id : Victim2 , triage : 3 }
+38647;SETDATA;{ human_id : Victim3 , triage : dead }
+40000;STOP;{}

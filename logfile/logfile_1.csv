@@ -1,0 +1,16 @@
+0;START;{}
+0;MAP;{name: Server Hack}
+0;Human;{id: Victim1 , breath: 30 , pulse: 140 , triage: 3, throat: 0 , pos_x: 1630 , pos_y: 620}
+0;Human;{id: Victim2 , breath: 8 , pulse: 82 , throat: 0 , pos_x: 1382 , pos_y: -353}
+0;Human;{id: Victim3 , breath: 0 , pulse: 0 , throat: 0 , pos_x: 895 , pos_y: 118}
+0;Human;{id: Victim4 , breath: 15 , pulse: 103 , throat: 0 , pos_x: 933 , pos_y: 873}
+0;Human;{id: Victim5 , breath: 22 , pulse: 161 , throat: 0 , pos_x: 1346 , pos_y: 136}
+0;Human;{id: Victim6 , breath: 0 , pulse: 0 , throat: 0 , pos_x: 1970 , pos_y: 680}
+0;Position;{x: 10, y: 100}
+7426;SETDATA;{ human_id : Victim6 , triage : 1 }
+11887;SETDATA;{ human_id : Victim1 , triage : 3 }
+13000;Position;{x: 50, y: 120}
+14462;SETDATA;{ human_id : Victim4 , triage : dead }
+15000;Position;{x: 20, y: 150}
+16837;SETDATA;{ human_id : Victim3 , triage : 2 }
+17000;STOP;{}
